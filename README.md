@@ -13,7 +13,7 @@
 📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
 
 📫 How to reach me: **sofiagil2288@gmail.com**
-<div align="center">
+<!--<div align="center">
     <a width="100%">
         <a href="https://github.com/claauugil">
             <img alt="Claudia's Github Stats" 
@@ -26,7 +26,7 @@
                  height="192px" width="45%"/>
         </a>
     </a>
-</div>
+</div> -->
 
 <br>
 <div align=center>
