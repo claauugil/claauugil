@@ -12,7 +12,6 @@
 
 📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
 
-📫 How to reach me: **sofiagil2288@gmail.com**
 
 <br>
 <div align=center>
