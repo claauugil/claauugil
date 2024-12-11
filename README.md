@@ -1,8 +1,5 @@
 <div align="center">
    	<h1 align="center">Hi, I'm Claudia!😄</h1>
-	<a href="mailto:sofiagil2288@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
-	</a>
 </div>
 
 <br>
