@@ -9,6 +9,8 @@
 
 📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
 
+[You can see my progress in 42 Madrid here 🚀](https://github.com/claauugil/cursus_42)
+
 
 <br>
 <div align=center>
