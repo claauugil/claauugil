@@ -20,3 +20,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=claauugil&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=claauugil1&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claauugil&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,bash,linux,vscode,markdown,vim" />
+  </a>
+</p>
