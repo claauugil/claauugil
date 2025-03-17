@@ -1,28 +1,31 @@
-<div align="center">
-   	<h1 align="center">Hi, I'm Claudia!😄</h1>
-</div>
-
-<br>
-<div align="center">
-
-👨‍💻 I’m a student at 42 Madrid, currently working through the Common Core curriculum.
-
-📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
-
-[You can see my progress in 42 Madrid here 🚀](https://github.com/claauugil/cursus_42)
-
-
-<br>
-<div align=center>
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/cgil" alt="cgil's 42 stats" /></a>
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=claauugil&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=claauugil1&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=claauugil&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="#" onclick="return false;">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C85C8E&height=125&section=header&animation=fadeIn&fontColor=ffffff">
+</a>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,bash,linux,vscode,markdown,vim" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFEDFA&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Claudia;I'm+a+student+at+42+Madrid;">
 </p>
+    </a>
+<a href="#" onclick="return false;">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C85C8E&height=125&section=footer&animation=fadeIn&fontColor=ffffff">
+</a>
+
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/claauugil/cursus_42" target="_blank" style="font-size: 18px; color: #C85C8E !important; text-decoration: none !important;">
+        here's my progress on the 42 Common Core
+    </a>
+</p>
+<br>
+<div align="center">
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/starryblue/cgil" alt="cgil's 42 stats"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,bash,linux,vscode,markdown,vim"/>
+    </a>
+</div>
+<br>
