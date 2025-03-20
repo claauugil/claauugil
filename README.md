@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFEDFA&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Claudia;I'm+a+student+at+42+Madrid;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFEDFA&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Claudia;I'm+a+student+at+42+Madrid;+coding+and+learning+one+step+at+a+time+:)">
 </p>
     </a>
 <a href="#" onclick="return false;">
