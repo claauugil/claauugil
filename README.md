@@ -30,5 +30,5 @@
 </div>
 <br>
 
-| [![claauugil's GitHub stats](https://github-readme-stats.vercel.app/api?username=claauugil&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/claauugil?tab=repositories) | [![claauugil's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claauugil&layout=compact&hide_border=true&theme=jolly)](https://github.com/claauugil?tab=repositories) |
+| [![claauugil's GitHub stats](https://github-readme-stats.vercel.app/api?username=claauugil&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/claauugil?tab=repositories) | [![claauugil's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claauugil&layout=compact&hide_border=true&theme=jolly&v=3)](https://github.com/claauugil?tab=repositories) |
 |:-:|:-:|
