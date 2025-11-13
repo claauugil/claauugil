@@ -1,5 +1,7 @@
 # ¡Hola, soy Claudia! 👋
-Estudiante en 42 Madrid en constante aprendizaje, interesada en ciberseguridad e inteligencia artificial, y apasionada por aportar soluciones creativas a los desafíos que enfrento.
+
+Estudiante en 42 Madrid en constante aprendizaje | Desarrollando soluciones creativas a través de la programación de sistemas, entendiendontender cómo funcionan las cosas desde los cimientos | Interesada en ciberseguridad e inteligencia artificial
+
 
 ---
 
@@ -43,7 +45,7 @@ Visualizador interactivo de **fractales** (Mandelbrot, Julia) usando MiniLibX. P
 
 <div align="center" style="margin-top: 10px;">
 <a href="https://github.com/claauugil/cursus_42" target="_blank" style="font-size: 18px; color: #C85C8E; text-decoration: none;">
-    Ver todos los proyectos
+    Ver todos mis proyectos del Common Core
 </a>
 </div>
 
