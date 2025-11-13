@@ -43,7 +43,7 @@ Visualizador interactivo de **fractales** (Mandelbrot, Julia) usando MiniLibX. P
 
 <div align="center" style="margin-top: 10px;">
 <a href="https://github.com/claauugil/cursus_42" target="_blank" style="font-size: 18px; color: #C85C8E; text-decoration: none;">
-    Ver otros proyectos
+    Ver todos los proyectos
 </a>
 </div>
 
