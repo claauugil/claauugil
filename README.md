@@ -55,26 +55,6 @@ Multi-client IRC server implementing the IRC protocol.
 **Tech:** C++ • Networking • Sockets
 
 ---
-
-### 🎮 [Cub3D](https://github.com/claauugil/Cub3D)  
-
-Raycasting engine inspired by Wolfenstein 3D.
-
-**Highlights**
-- Raycasting renderer
-- Texture mapping
-- Collision system
-- Player movement
-
-**Tech:** C • Computer Graphics
-
-<div align="center" style="margin-top: 10px;">
-<a href="https://github.com/claauugil/cursus_42" target="_blank" style="font-size: 18px; color: #C85C8E; text-decoration: none;">
-  Check out my other projects from the Common Core!
-</a>
-</div>
-
----
 ## 🎯 Current Focus
 
 - Backend architecture design
