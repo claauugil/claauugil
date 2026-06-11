@@ -1,63 +1,98 @@
-# ¡Hola, soy Claudia! 👋
+# Hi, I'm Claudia
 
-Estudiante en 42 Madrid en constante aprendizaje | Desarrollando soluciones creativas a través de la programación de sistemas, entendiendontender cómo funcionan las cosas desde los cimientos | Interesada en ciberseguridad e inteligencia artificial
+Software developer focused on **systems programming, backend engineering, and networking**, trained at 42 Madrid.
 
+Strong interest in low-level design, performance, and building reliable backend systems. Currently focused on cloud-native development with AWS and integrating Generative AI into production systems.
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=vim" />
-  <img src="https://skillicons.dev/icons?i=markdown" />
-</p>
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts" />  
+C • C++ • Python • Java • TypeScript
 
 ---
 
-## 📊 Estadísticas de GitHub
-| [![Estadísticas](https://github-readme-stats.vercel.app/api?username=claauugil&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/claauugil) | [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=claauugil&layout=compact&hide_border=true&theme=jolly)](https://github.com/claauugil) |
-|:-:|:-:|
+**Backend & Systems**  
+<img src="https://skillicons.dev/icons?i=linux,bash,git,docker" />  
+Unix • Networking • APIs • System Design
 
 ---
 
-## ✨ Proyectos Destacados
+**Cloud & AI**  
+<img src="https://skillicons.dev/icons?i=aws" />  
+AWS • DevOps • CI/CD • LLMs • Automation
 
-### 🧱 [Cub3D](https://github.com/claauugil/Cub3D)  
-Mini motor 3D en C inspirado en *Wolfenstein 3D*. Implementa **raycasting**, texturas, colisiones y movimiento en tiempo real.  
-**Tecnologías:** C, MiniLibX, Raycasting  
+---
 
-### 🐚 [Minishell](https://github.com/Minishell-cgil-gmaccha/Minishell-gmaccha-cgil)  
-Shell de Unix simplificada desarrollada desde cero. Soporta **ejecución de comandos**, redirecciones, pipes, heredocs y built-ins, emulando Bash.  
-**Tecnologías:** C, Unix, Procesos, Señales  
 
-### 🌀 [Fract-ol](https://github.com/claauugil/Fractol)  
-Visualizador interactivo de **fractales** (Mandelbrot, Julia) usando MiniLibX. Permite zoom, desplazamiento y navegación en tiempo real.  
-**Tecnologías:** C, MiniLibX, Matemáticas
+## Featured Projects
+
+### 🖥️ [Minishell](https://github.com/Minishell-cgil-gmaccha/Minishell-gmaccha-cgil)  
+
+A Unix shell built from scratch in C.
+
+**Highlights**
+- Command parsing
+- Pipes and redirections
+- Process management
+- Signals and environment handling
+
+**Tech:** C • Unix • Systems Programming
+
+---
+### 🌐 [Ft_irc](https://github.com/ft-IRClive)
+
+Multi-client IRC server implementing the IRC protocol.
+
+**Highlights**
+- TCP socket server
+- Multi-client concurrency
+- Channel system
+- Protocol handling
+
+**Tech:** C++ • Networking • Sockets
+
+---
+
+### 🎮 [Cub3D](https://github.com/claauugil/Cub3D)  
+
+Raycasting engine inspired by Wolfenstein 3D.
+
+**Highlights**
+- Raycasting renderer
+- Texture mapping
+- Collision system
+- Player movement
+
+**Tech:** C • Computer Graphics
 
 <div align="center" style="margin-top: 10px;">
 <a href="https://github.com/claauugil/cursus_42" target="_blank" style="font-size: 18px; color: #C85C8E; text-decoration: none;">
-    Ver todos mis proyectos del Common Core
+  Check out my other projects from the Common Core!
 </a>
 </div>
 
 ---
+## 🎯 Current Focus
 
-## 📫 Contacto
+- Backend architecture design
+- Cloud engineering (AWS)
+- DevOps & CI/CD pipelines
+- Distributed systems
+- AI-powered backend systems
+
+---
+## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claudia-gil-775475262/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/claudiagilduran/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu_correo@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+
+  <a href="mailto:sofiagil2288@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
